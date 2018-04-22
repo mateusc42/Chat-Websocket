@@ -1,0 +1,24 @@
+{
+  "name": "websocketchat",
+  "version": "1.0.0",
+  "description": "Chat Usando Websockets",
+  "main": "chat-server.js",
+  "scripts": {
+    "test": "echo \"Erro: nenhum teste especificado\" && exit 1",
+    "start": "node chat-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusc42/Chat-Websocket.git"
+  },
+  "author": "Mateus Cardoso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateusc42/Chat-Websocket/issues"
+  },
+  "homepage": "https://github.com/mateusc42/Chat-Websocket#readme",
+  "dependencies": {
+    "websocket": "^1.0.24"
+  },
+  "devDependencies": {}
+}
